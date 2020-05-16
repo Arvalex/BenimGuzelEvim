@@ -1,0 +1,10 @@
+name: BenimGuzelEvim
+version: ${project.version}
+main: me.fenish.benimguzelevim.Main
+api-version: 1.13
+authors: [Fenish]
+commands:
+  home:
+    aliases: [ev]
+  sethome:
+    aliases: [evbelirle]
